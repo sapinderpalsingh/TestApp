@@ -4,7 +4,7 @@
 using System;
 using System.IO;
 
-namespace CSApp
+namespace TestApp
 {
     /// <summary>
     /// Application secrets

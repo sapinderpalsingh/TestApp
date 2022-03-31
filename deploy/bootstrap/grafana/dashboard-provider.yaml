@@ -10,9 +10,9 @@ data:
   dashboardProvider.yaml: |
     apiVersion: 1
     providers:
-    - name: csapp
+    - name: testapp
       options:
-        path: /var/lib/grafana/dashboards/csapp
+        path: /var/lib/grafana/dashboards/testapp
       orgId: 1
       type: file
       disableDeletion: false

@@ -4,7 +4,7 @@
 using System;
 using Microsoft.Azure.Cosmos;
 
-namespace CSApp.DataAccessLayer
+namespace TestApp.DataAccessLayer
 {
     /// <summary>
     /// Internal class for Cosmos config

@@ -1,7 +1,7 @@
 {
-  "name": "csapp",
-  "namespace": "csapp",
-  "imageName": "ghcr.io/retaildevcrews/csapp",
+  "name": "testapp",
+  "namespace": "testapp",
+  "imageName": "ghcr.io/retaildevcrews/testapp",
   "imageTag": "latest",
   "targets": [ "demo" ],
   "args": [],

@@ -3,12 +3,12 @@
 
 using System;
 using System.Threading.Tasks;
-using CSApp.Model;
+using TestApp.Model;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Diagnostics.HealthChecks;
 using Microsoft.Extensions.Logging;
 
-namespace CSApp.Controllers
+namespace TestApp.Controllers
 {
     /// <summary>
     /// Handle the /healthz* requests
